@@ -6,8 +6,7 @@ footer{
 	background-color: #2E2E2E;
 	color: #F2F2F2;
 	min-height: 285px;
-	padding-left: 140px;
-	padding-right: 140px;
+	padding: 30px 140px;
 }
 footer a{
 	color: #F2F2F2;
